@@ -7,6 +7,7 @@ int main()
 	printf("What is your name\n");
 	char word[10] = {"Daniil"};
 	printf("Hello, %s", word);
+	//просто коммент
 	getch();
 	return 0;
 }
