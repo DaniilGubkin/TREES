@@ -8,6 +8,7 @@ int main()
 	char word[10] = {"Daniil"};
 	printf("Hello, %s", word);
 	//просто коммент
+	// ещё один коммент
 	getch();
 	return 0;
 }
